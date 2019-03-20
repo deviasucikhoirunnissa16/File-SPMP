@@ -18,9 +18,9 @@ Disusun Oleh :
 <p>D3TI.2C</p>
 
 
-<p>PROGRAM STUDI TEKNIK INFORMATIKA</p>
+<center><p>PROGRAM STUDI TEKNIK INFORMATIKA</p>
 <p>POLITEKNIK NEGERI INDRAMAYU</p>
-<p>2019</p>
+<p>2019</p></center>
 </h3></p></center>
 
 <b>

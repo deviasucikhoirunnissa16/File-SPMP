@@ -11,9 +11,9 @@ BERBASIS WEBSITE (ULine)</H1></p></center>
 Disusun Oleh :
 “Kelompok 4”
 <ol>
-	<li>1.	Devia Suci Khoirun Nissa	(1703076)</li>
-	<li>2.	Kastuti						(1703062)</li>
-	<li>3.	Reza Pahlevi Yahya			(1703069)</li>
+	<li>Devia Suci Khoirun Nissa	(1703076)</li>
+	<li>Kastuti						(1703062)</li>
+	<li>Reza Pahlevi Yahya			(1703069)</li>
 </ol>
 <p>D3TI.2C</p>
 

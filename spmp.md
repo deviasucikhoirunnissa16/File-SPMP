@@ -10,10 +10,12 @@ BERBASIS WEBSITE (ULine)</H1></p></center>
 <center><p><h3>
 Disusun Oleh :
 “Kelompok 4”
-1.	Devia Suci Khoirun Nissa	(1703076)
-2.	Kastuti				(1703062)
-3.	Reza Pahlevi Yahya		(1703069)
-D3TI.2C
+<ol>
+	<li>1.	Devia Suci Khoirun Nissa	(1703076)</li>
+	<li>2.	Kastuti						(1703062)</li>
+	<li>3.	Reza Pahlevi Yahya			(1703069)</li>
+</ol>
+<p>D3TI.2C</p>
 
 
 PROGRAM STUDI TEKNIK INFORMATIKA

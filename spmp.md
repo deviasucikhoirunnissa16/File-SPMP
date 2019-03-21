@@ -21,9 +21,9 @@ BERBASIS WEBSITE (ULine)</H1>
 
 
 
-<p align="center"><strong>PROGRAM STUDI TEKNIK INFORMATIKA</p>
-<p align="center">POLITEKNIK NEGERI INDRAMAYU</p>
-<p align="center">2019</p>
+<h1><p align="center"><strong>PROGRAM STUDI TEKNIK INFORMATIKA</p></h1>
+<h1><p align="center">POLITEKNIK NEGERI INDRAMAYU</p></h1>
+<h1><p align="center">2019</p></h1>
 </strong></p>
 
 <b>

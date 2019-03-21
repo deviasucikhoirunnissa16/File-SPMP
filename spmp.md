@@ -174,32 +174,33 @@ BERBASIS WEBSITE (ULine)</H1>
 							3.1.	Tujuan dan prioritas manajemen<br>
 							<ol>
 								3.1.1.	Prioritas Jadwal<br>
+								<ol>
 								Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat, dokumen  projek, jadwal  kegiatan, struktur pembuatan projek dan organisasi.<br></ol>
 								<ol>
 								3.1.2.	Budget
-								Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan requirtment proyek.<br></ol>
+								<ol>Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan requirtment proyek.<br></ol>
 								<ol>
 								3.1.3.	Kemampuan (Kualitas dan Reusability)<br>
-								Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek, juga berbasis desktop yang membuat konsumen merasa lebih budah dalam interaksinya.<br></ol>
+								<ol>Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek, juga berbasis desktop yang membuat konsumen merasa lebih budah dalam interaksinya.<br></ol>
 						<ol>
 							3.2.	Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan<br>
 							Asumsi proyek adalah sebagai berikut :<br>
 							<ol>
-							<ul>Tim terdiri dari 3 orang</ul>
-							<ul>Ketersediaan peralatan dan perangkat lunak</ul>
-							<ul>Persetujuan pendanaan</ul>
+							<li>Tim terdiri dari 3 orang</li>
+							<li>Ketersediaan peralatan dan perangkat lunak</li>
+							<li>Persetujuan pendanaan</li>
 							</ol>
 							Substansi Proyek adalah sebagai berikut :<br>
 							<ol>
-							<ul>Aplikasi ini bisa membuat siswa menjadi lebih bersemangat dalam mengerjakan soal UNBK.</ul>
-							<ul>Tersedianya latihan-latihan soal</ul>
+							<li>Aplikasi ini bisa membuat siswa menjadi lebih bersemangat dalam mengerjakan soal UNBK.</li>
+							<li>Tersedianya latihan-latihan soal</li>
 							</ol>
 							Kendala proyek adalah sebagai berikut :<br>
 							<ol>
-							<ul>Waktu</ul>
-							<ul>Anggaran</ul>
-							<ul>Waktu Pengerjaan</ul>
-							<ul>Ketersediaan Perangkat Lunak dan Perangkat Keras beserta spesifikasinya</ul>
+							<li>Waktu</li>
+							<li>Anggaran</li>
+							<li>Waktu Pengerjaan</li>
+							<li>Ketersediaan Perangkat Lunak dan Perangkat Keras beserta spesifikasinya</li>
 							</ol>
 						</ol>
 

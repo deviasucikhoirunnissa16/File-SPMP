@@ -9,18 +9,21 @@ BERBASIS WEBSITE (ULine)</H1>
 <img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo"><br>  
 
  
-</p><p align="center"><strong>Disusun Oleh Kelompok 4 :</strong></p>  
+</p><p align="center"><strong>Disusun Oleh Kelompok 4 :</strong></p> 
+<p align="center"> 
 <ol>
 	<li>Devia Suci Khoirun Nissa	(1703076)</li>
 	<li>Kastuti						(1703062)</li>
 	<li>Reza Pahlevi Yahya			(1703069)</li>
 </ol>
 <p>D3TI.2C</p>
+</p>
+
 
 
 <p align="center"><strong>PROGRAM STUDI TEKNIK INFORMATIKA</p>
-<p>POLITEKNIK NEGERI INDRAMAYU</p>
-<p>2019</p>
+<p align="center">POLITEKNIK NEGERI INDRAMAYU</p>
+<p align="center">2019</p>
 </strong></p>
 
 <b>

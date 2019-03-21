@@ -176,10 +176,8 @@ BERBASIS WEBSITE (ULine)</H1>
 								3.1.1.	Prioritas Jadwal<br>
 								<ol>
 								Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat, dokumen  projek, jadwal  kegiatan, struktur pembuatan projek dan organisasi.<br></ol>
-								<ol>
 								3.1.2.	Budget
 								<ol>Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan requirtment proyek.<br></ol>
-								<ol>
 								3.1.3.	Kemampuan (Kualitas dan Reusability)<br>
 								<ol>Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek, juga berbasis desktop yang membuat konsumen merasa lebih budah dalam interaksinya.<br></ol>
 						<ol>

@@ -1,15 +1,15 @@
-<center><p><H1>DOCUMENTASI PROYEK RPL
+<h1 align="center" id="software-requirements-specification">DOCUMENTASI PROYEK RPL
 SOFTWARE PROJECT MANAGEMENT PLAN
 APLIKASI UJIAN ONLINE DI SMAN 1 JATIBARANG
-BERBASIS WEBSITE (ULine)</H1></p></center>
-<center><p><h3>Diajukan untuk memenuhi persyaratan pada mata kuliah Rekayasa Perangkat Lunak pada jenjang Diploma III</h3></p></center>
+BERBASIS WEBSITE (ULine)</H1>
+<p align="center"><strong>Diajukan untuk memenuhi persyaratan pada mata kuliah Rekayasa Perangkat Lunak pada jenjang Diploma III</strong></p><br><br>
 
 
+</p><p align="center">  
+<img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo"><br>  
 
  
-<center><p><h3>
-Disusun Oleh :
-“Kelompok 4”
+</p><p align="center"><strong>Disusun Oleh Kelompok 4 :</strong></p>  
 <ol>
 	<li>Devia Suci Khoirun Nissa	(1703076)</li>
 	<li>Kastuti						(1703062)</li>
@@ -18,10 +18,10 @@ Disusun Oleh :
 <p>D3TI.2C</p>
 
 
-<center><p>PROGRAM STUDI TEKNIK INFORMATIKA</p>
+<p align="center"><strong>PROGRAM STUDI TEKNIK INFORMATIKA</p>
 <p>POLITEKNIK NEGERI INDRAMAYU</p>
-<p>2019</p></center>
-</h3></p></center>
+<p>2019</p>
+</strong></p>
 
 <b>
 <h1>
@@ -100,26 +100,21 @@ Disusun Oleh :
 		<ol>
 			2.1 Model proses <br>
 				<ol>
-					Kami menggunakan model proses dengan model waterfall dengan membangun sistem ini.  <br>
+					Model proses yang digunakan adalah V-Model, karena metode V-model bisa dikerjakan sebagai Multitask Developer, dimana setiap personal bisa mengerjakan tahap selanjut nya apabila tahap awal masih dalam proses pengerjaan. Kami menggunakan Android Studio untuk menunjang requirement perangkat lunak. <br>
 				</ol>
+				<img src="https://lh3.googleusercontent.com/-dKojoxI9MKc/Wp_k2a1cQEI/AAAAAAAAAIE/T9nLLrx9R0QC28nJ3WgIFM7acgnFZtoiACL0BGAs/w530-d-h256-n/Capture.JPG=s200" alt="vmodel"><br> <br>
 				<ol>
-				Identifikasi Masalah 
-				Pada tahap identifikasi masalah dilakukan diskusi dan pengkajian permasalahan yang akan diangkat dalam pembuatan proyek dan dilakukan survei ke tempat mitra.<br></ol>
+				V-Model merupakan model pengembangan perangkat lunak yang didasarkan pada hubungan antara setiap fase pengembangan siklus hidup yang tercantum dalam model Watterfall yang merupakan pengembangan perangkat lunak dan fase yang terkait pengujian. Bisa dikatakan model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang. Adapun kelebihan dari v model ini antara lain :<br></ol>
 				<ol>
-				Perencanaan Sistem 
-				Pada tahap perencanaan sistem dilakukan perencanaan model aplikasi proyek yang akan dibuat dan menentukan aplikasi apa yang digunakan untuk membuat aplikasi proyek serta mencari referensi penunjang pembuatan proyek.<br></ol>
+				<ul>Penyesuaian yang cepat pada projek yang baru</ul>
+				<ul>Memudahkan dalam pembuatan dokumen projek</ul>
+				<ul>Biaya yang murah dalam perawatan dan modifikasinya</ul>
+				<ul>V Model sangat fleksibel. V Model mendukung project tailoring dan penambahan dan pengurangan method dan tool secara dinamik. Akibatnya sangat mudah untuk melakukan tailoring pada V Model agar sesuai dengan suatu proyek tertentu dan sangat mudah untuk menambahkan method dan tool baru atau menghilangkan method dan tool yang dianggap sudah obsolete.</ul>
+				</ol>
 				<ol>
 				Pembuatan Proyek
 				Pada tahap pembuatan proyek dilakukan pembuatan aplikasi yang telah direncanakan pada tahap perencanaan sistem.<br></ol>
 				<ol>
-				Pengujian
-				Pada tahap pengujian dilakukan pengujian aplikasi yang telah dibuat, mulai dari menu dan fitur-fiturnya. Tahap ini merupakan salah satu tahap penting karena dengan melakukan pengujian akan diketahui masalah yang terdapat pada aplikasi. <br></ol>
-				<ol>
-				Perbaikan Proyek 
-				Pada tahap perbaikan proyek dilakukan perbaikan aplikasi yang telah diuji jika pada aplikasi masih terdapat masalah ataupun ketidak sesuaian. Tahap ini juga salah satu tahap penting untuk penanggulangan error atau bug.<br></ol>
-				<ol>
-				Hosting
-				Setelah perbaikan proyek dan tidak ada error atau masalah lagi, maka langkah terakhir adalah hosting. Website ini dihosting melalui jasa hosting gratis.<br></ol>
 				2.2 Struktur organisasi <br>
 				<ol>
 					a. Project Manajer<br>
@@ -146,7 +141,7 @@ Disusun Oleh :
 							Bertugas untuk memberi rancangan database yang ada dalam projek dan akan dihubungkan melalui programnya.
 							atau dapat juga Database Administrator dia bertanggung jawab untuk membuat database sistem yang diperlukan pada aplikasi.<br>
 						</ol>
-				</ol>
+						</ol>
 						2.4.	Lingkup tanggung jawab<br>
 						<ol>
 						Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam 
@@ -171,3 +166,37 @@ Disusun Oleh :
 						<ol>
 						Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error yang dilewatkan, maka konsumen akan dirugikan.<br>
 						</ol>
+						3.	Proses Manajerial<br>
+						<ol>
+							3.1.	Tujuan dan prioritas manajemen<br>
+							<ol>
+								3.1.1.	Prioritas Jadwal<br>
+								Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat, dokumen  projek, jadwal  kegiatan, struktur pembuatan projek dan organisasi.<br></ol>
+								<ol>
+								3.1.2.	Budget
+								Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan requirtment proyek.<br></ol>
+								<ol>
+								3.1.3.	Kemampuan (Kualitas dan Reusability)<br>
+								Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek, juga berbasis desktop yang membuat konsumen merasa lebih budah dalam interaksinya.<br></ol>
+						<ol>
+							3.2.	Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan<br>
+							Asumsi proyek adalah sebagai berikut :<br>
+							<ol>
+							<ul>Tim terdiri dari 3 orang</ul>
+							<ul>Ketersediaan peralatan dan perangkat lunak</ul>
+							<ul>Persetujuan pendanaan</ul>
+							</ol>
+							Substansi Proyek adalah sebagai berikut :<br>
+							<ol>
+							<ul>Aplikasi ini bisa membuat siswa menjadi lebih bersemangat dalam mengerjakan soal UNBK.</ul>
+							<ul>Tersedianya latihan-latihan soal</ul>
+							</ol>
+							Kendala proyek adalah sebagai berikut :<br>
+							<ol>
+							<ul>Waktu</ul>
+							<ul>Anggaran</ul>
+							<ul>Waktu Pengerjaan</ul>
+							<ul>Ketersediaan Perangkat Lunak dan Perangkat Keras beserta spesifikasinya</ul>
+							</ol>
+						</ol>
+
